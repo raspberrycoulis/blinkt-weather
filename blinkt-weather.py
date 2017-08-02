@@ -2,7 +2,6 @@
 
 import json, requests
 import time
-import sys
  
 # Uncomment if using Blinkt
 import blinkt as pixel
